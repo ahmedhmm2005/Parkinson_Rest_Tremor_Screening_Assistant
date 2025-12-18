@@ -93,7 +93,7 @@ This ensures real-world reliability — especially in clinics with limited hardw
 
 ## 🌐 Web Application
 
-- Built with **Flask + HTML/CSS/JS**
+- Built with **Flask + Gradio**
 - Features:
   - Upload CSV file
   - Automatic preprocessing (scaling → PCA)
